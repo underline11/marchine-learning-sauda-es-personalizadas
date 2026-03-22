@@ -9,8 +9,4 @@ O projeto "Saudações Personalizadas" é uma aplicação em Python que gera sau
 - **Saudações Personalizadas:** Permite ao usuário inserir seu nome e escolher um tipo de saudação.
 - **Exibição de Mensagem:** Exibe uma mensagem de saudação personalizada com base nas informações fornecidas.
 
-## Como Usar
 
-1. Clone o repositório:
-   
-   git clone https://github.com/usuario/saudacoes-personalizadas.git
